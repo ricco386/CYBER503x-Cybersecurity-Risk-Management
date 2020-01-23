@@ -1,0 +1,31 @@
+.. RITx: CYBER503x Cybersecurity Risk Management - Personal study notes documentation master file, created by
+   sphinx-quickstart on Thu Jan 23 08:50:48 2020.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome to RITx: CYBER503x Cybersecurity Risk Management notes!
+===============================================================
+
+This are my personal notes taken during the course `RITx: CYBER503x Cybersecurity Risk Management <https://www.edx.org/course/cybersecurity-risk-management/>`_ at `edx.org <https://www.edx.org/>`_.
+
+Feel free to use them during your study and if you find it useful you can star this repository. If you find a mistake or you think I have  missed something important I am more than happy to accept RP on this repo.
+
+Notes are written in `Sphinx <https://www.sphinx-doc.org/en/master/>`_ documentation format. You can visit source notes at url: https://ricco386.github.io/CYBER503x-Cybersecurity-Risk-Management/
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+My personal notes from other `RITx Cybersecurity MicroMasters® Program <https://www.edx.org/micromasters/ritx-cybersecurity>`_ courses:
+
+* `CYBER501x Cybersecurity Fundamentals notes <https://ricco386.github.io/CYBER501x-Cybersecurity-Fundamentals/>`_
+* `CYBER502x Computer Forensics <https://ricco386.github.io/CYBER502x-Computer-Forensics/>`_
+* `CYBER503x Cybersecurity Risk Management <https://ricco386.github.io/CYBER503x-Cybersecurity-Risk-Management/>`_
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
